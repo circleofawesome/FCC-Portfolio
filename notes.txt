@@ -1,0 +1,2 @@
+content:
+-about: New York City & Philadelphia based aspiring Fullstack Developer. Experienced in using HTML/CSS/Bootstrap/jQuery/JavaScript to deliver fully functional and responsive websites and web applications. Object Oriented Programming knowledge in Ruby, and some experience with Ruby on Rails. Check out my work!
