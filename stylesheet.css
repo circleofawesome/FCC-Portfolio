@@ -27,3 +27,18 @@ body{
 #about{
 	font-size: 15vw;
 }
+
+.pic{
+	background-color: black;
+	width: 300px;
+	height: 300px;
+    margin: 0 auto; 
+}
+
+.about-content{
+	font-size: 40px;
+}
+
+.bracket{
+	font-size: 60px;
+}
