@@ -78,3 +78,11 @@ body{
 .contact-message{
 	font-size: 40px;
 }
+
+.btn-secondary{
+	background-color: yellow;
+}
+
+a:link{
+	color: #333333;
+}

@@ -9,3 +9,11 @@ http://oi67.tinypic.com/10nuvtg.jpg == under construction cat
 
 If you liked what you saw then let's get in touch! You can either leave me a message on the right with your contact info or you can reach me through any of the sources below. Thanks!
 
+
+
+<a href="#github" class="social-links"><i class="fa fa-github fa-5x" aria-hidden="false"></i></a>
+					<a href="#linkdin"class="social-links"></a>
+					<a href="#facebook"class="social-links"></a>
+					<a href="#google+"class="social-links"></a>
+					<a href="#twitter"class="social-links"></a>
+					<a href="#flickr"class="social-links"></a>
