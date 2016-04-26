@@ -42,3 +42,19 @@ body{
 .bracket{
 	font-size: 60px;
 }
+
+#portfolio{
+	font-size: 15vw;
+}
+
+.thumbnail-frame{
+	background-color: black;
+	opacity: .8;
+}
+
+.thumbnail{
+	height: 200px;
+	width: 200px;
+	background-color: green;
+}
+
