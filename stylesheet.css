@@ -70,3 +70,11 @@ body{
     border-radius: 50%;
     border-color:yellow;
 }
+
+#contact{
+	font-size: 15vw;
+}
+
+.contact-message{
+	font-size: 40px;
+}
