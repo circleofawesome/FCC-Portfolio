@@ -35,6 +35,12 @@ body{
     margin: 0 auto; 
 }
 
+.sammy{
+	border-width: 10px;
+    border-style: solid;
+    border-color:black;
+}
+
 .about-content{
 	font-size: 40px;
 }
@@ -58,3 +64,9 @@ body{
 	background-color: green;
 }
 
+.kitty{
+	border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color:yellow;
+}
