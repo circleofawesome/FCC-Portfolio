@@ -17,11 +17,14 @@ body{
 	background-color: #333333;
 }
 
+.nav-row{
+	text-align: center;
+}
+
 .nav-buttons{
 	background-color: yellow;
 	font-size: 40px;
 	border: none;
-	float: right;
 }
 
 #about{
