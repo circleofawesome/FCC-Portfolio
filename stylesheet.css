@@ -86,3 +86,20 @@ body{
 a:link{
 	color: #333333;
 }
+
+a:hover{
+	color: black;
+}
+
+a:active{
+	color: black;
+}
+
+a:visited{
+	color: #333333;
+}
+
+#credits{
+	text-align: center;
+	font-weight: bold;
+}
