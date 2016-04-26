@@ -1,0 +1,29 @@
+body{
+	background-color:yellow;
+
+}
+
+#samiul-name{
+	font-size: 15vw;
+	float: right;
+}
+
+#anwar-name{
+	font-size: 15vw;
+	float: right;
+}
+
+.bar{
+	background-color: #333333;
+}
+
+.nav-buttons{
+	background-color: yellow;
+	font-size: 40px;
+	border: none;
+	float: right;
+}
+
+#about{
+	font-size: 15vw;
+}
