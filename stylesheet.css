@@ -6,11 +6,13 @@ body{
 #samiul-name{
 	font-size: 15vw;
 	float: right;
+	font-family: 'Montserrat', sans-serif;
 }
 
 #anwar-name{
 	font-size: 15vw;
 	float: right;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .bar{
@@ -25,10 +27,12 @@ body{
 	background-color:  #AFAFAF;
 	font-size: 40px;
 	border: none;
+	font-family: 'Montserrat', sans-serif;
 }
 
 #about{
 	font-size: 15vw;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .pic{
@@ -41,11 +45,12 @@ body{
 .sammy{
 	border-width: 10px;
     border-style: solid;
-    border-color:black;
+    border-color:#333333;
 }
 
 .about-content{
 	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .bracket{
@@ -54,6 +59,7 @@ body{
 
 #portfolio{
 	font-size: 15vw;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .thumbnail-frame{
@@ -76,10 +82,12 @@ body{
 
 #contact{
 	font-size: 15vw;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .contact-message{
 	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .btn-secondary{
@@ -105,4 +113,5 @@ a:visited{
 #credits{
 	text-align: center;
 	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
 }
