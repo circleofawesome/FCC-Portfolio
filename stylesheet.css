@@ -1,5 +1,5 @@
 body{
-	background-color:yellow;
+	background-color: #AFAFAF;
 
 }
 
@@ -22,7 +22,7 @@ body{
 }
 
 .nav-buttons{
-	background-color: yellow;
+	background-color:  #AFAFAF;
 	font-size: 40px;
 	border: none;
 }
@@ -71,7 +71,7 @@ body{
 	border-width: 10px;
     border-style: solid;
     border-radius: 50%;
-    border-color:yellow;
+    border-color: #AFAFAF;
 }
 
 #contact{
@@ -83,7 +83,7 @@ body{
 }
 
 .btn-secondary{
-	background-color: yellow;
+	background-color: #AFAFAF;
 }
 
 a:link{
